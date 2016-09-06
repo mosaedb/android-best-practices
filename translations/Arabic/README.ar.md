@@ -1,6 +1,8 @@
 # أفضل الممارسات عند التطوير لأندرويد
 
-<p dir="rtl">تجربة</p>
+دروس مستفادة من مطوري موقع
+
+[Futurice](http://www.futurice.com).
 
 Lessons learned from Android developers in [Futurice](http://www.futurice.com). Avoid reinventing the wheel by following these guidelines. If you are interested in iOS or Windows Phone development, be sure to check also our [**iOS Good Practices**](https://github.com/futurice/ios-good-practices) and [**Windows App Development Best Practices**](https://github.com/futurice/windows-app-development-best-practices) documents.
 
